@@ -7,6 +7,8 @@
 g++ -std=c++20 DistanceCalc.cpp -o DistanceCalc.exe
 ```
 
+After recompilation, you may proceed by running the program.
+
 2. To suggest changes, please feel free to use Pull Requests or directly email the owner at mluo3@hawaii.edu
 
 # Code of Conduct
