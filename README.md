@@ -31,12 +31,16 @@ To test the program, please use the following command:
 DistanceCalc.exe -lat1 <Latitude of pt1> -longi1 <Longitude of pt1> -lat2 <Latitude of pt2> -longi2 <Longitude of pt2>
 
 ```
-     
 
-     Note: A. All latitudes/longitudes must be in unit of degrees.
-           B. Distance output is in unit of km
-           C. Northern Latitude -- Positive angle; Southern -- Negative. Eastern Longitude -- Positive; Western -- Negative.
-             e.g., Honolulu 21.3 N, 157.8 W -- (21.3, -157.8)
+Note: 
+
+A. All latitudes/longitudes must be in unit of degrees.
+
+B. Distance output is in unit of km
+
+C. Northern Latitude -- Positive angle; Southern -- Negative. Eastern Longitude -- Positive; Western -- Negative.
+
+e.g., Honolulu 21.3 N, 157.8 W -- (21.3, -157.8)
 
 ### 3. For help
    Contact Norman Luo via email: mluo3@hawaii.edu
