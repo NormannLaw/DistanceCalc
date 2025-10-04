@@ -18,7 +18,7 @@ to refamiliar myself with C++.
  To run DistanceCalc on your local, please cd to your target folder and run the following in Command Prompt / Terminal
      
 ```bash
-git clone https://github.com/NormannLaw/DistanceCalc/
+git clone https://github.com/NormannLaw/DistanceCalc_mluo3/
 ```
      
 
