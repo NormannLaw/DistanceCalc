@@ -1,10 +1,10 @@
-### 1. Description -- DistanceCalc mini program
+### 1. Description -- DistanceCalc_mluo3 mini program
 
 The purpose of this little toy project is to calculate the spherical distance between two points on Earth, given their latitudes and longitudes. For example, Shanghai
 (China) has a coordinate of 31.2 degrees N and 121.4 degrees E, while Taipei (Taiwan) has 25 degrees N and 121.5 degrees E; we may find the spherical distance between
 those two cities is 690.236km. This value is calculated with the help of Haversine formula, and it is very close to my rough measurement on GoogleMap (686km).
 
-The project, named DistanceCalc, is basically a C++ implementation of the Haversine formula. The basic assumption is that Earth is a perfect sphere with radius 6378km
+The project, named DistanceCalc_mluo3, is basically a C++ implementation of the Haversine formula. The basic assumption is that Earth is a perfect sphere with radius 6378km
 (not a super precise assumption though). By having the user input latitude/longitude for the two target points respectively, the program will output the spherical
 distance between two points, in unit of km.
 
